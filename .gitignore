@@ -252,5 +252,3 @@ $RECYCLE.BIN/
 _NCrunch*
 **/.vs/
 **/obj/
-config.php
-public/css/style.css
